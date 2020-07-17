@@ -4,7 +4,7 @@ import sys
 url = "https://community-open-weather-map.p.rapidapi.com/weather"
 headers = {
     'x-rapidapi-host': "community-open-weather-map.p.rapidapi.com",
-    'x-rapidapi-key': "dbba92ddbamshd2d6626e8f21f35p180636jsn3a18989f58e6"
+    'x-rapidapi-key': "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
 
 
